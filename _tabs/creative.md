@@ -1,1 +1,5 @@
-Here I talk about all things 3d printing
+---
+layout: categories
+icon: fas fa-stream
+order: 1
+---
