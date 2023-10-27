@@ -5,4 +5,4 @@ Currently, I am working on Bionic arm and provide an easy way for you to buy all
 ![IMG_8898](https://github.com/devyansh/devyansh.github.io/assets/37020063/f77e3b90-5421-4f17-b39a-aa44ef2dee15)
 
 
-![Alt text](assets/img/phantomArm.jpg)
+![Alt text](/assets/img/phantomArm.jpg)
