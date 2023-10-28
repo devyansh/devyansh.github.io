@@ -28,8 +28,6 @@ url: ""
 github:
   username: devyansh # change to your github username
 
-linkedin_username: devyansh-gupta
-
 # twitter:
 #   username: twitter_username # change to your twitter username
 
@@ -45,7 +43,7 @@ social:
     - https://phantomtronix.myshopiy.com
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/devyansh-gupta/
+    # - https://www.linkedin.com/in/devyansh-gupta/
 
 google_site_verification: # fill in to your verification string
 
